@@ -1,6 +1,6 @@
 # _**Design Patterns**_
     
-The Repo contains four files.
+The Repo contains following files.
     
 1. _**Builder Pattern**_ 
 1. _**Singelton Pattern**_
