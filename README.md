@@ -1,8 +1,9 @@
 #Design Patterns
-The Repo contains four files.
-    1. Builder Pattern
-    2. Singelton Pattern
-    3. Protoype Pattern
+    
+    The Repo contains four files.
+        1. Builder Pattern
+        2. Singelton Pattern
+        3. Protoype Pattern
     
     These files have examples of builder pattern, singleton pattern and prototype pattern implemented in java respectively.
     These files can be used by placing them in the same direcotry as the code and including them using following
